@@ -1,0 +1,35 @@
+[
+  {
+    "id": "75d79d86725a6ce5",
+    "username": "admin",
+    "email": "admin@example.com",
+    "passwordHash": "$2a$10$U62n.xDyvAAshkYDh5t1XOMxrRWmXdf.GnMNXgHkjll3v8FDf96YO",
+    "role": "admin",
+    "createdAt": "2026-07-29T22:51:34.194Z",
+    "lastLoginAt": "2026-08-09T15:54:02.268Z",
+    "resetToken": null,
+    "resetTokenExpiresAt": null
+  },
+  {
+    "id": "4ade41fe37271584",
+    "username": "brahim",
+    "email": "brahim@gmail.com",
+    "passwordHash": "$2a$10$LpHLqnvl7rS9BN8BuXb6c.7XQxPLL.xAnED1IbpLoRX8Fjbna6Dvq",
+    "role": "user",
+    "createdAt": "2026-07-30T07:38:35.342Z",
+    "lastLoginAt": "2026-07-30T07:38:59.322Z",
+    "resetToken": null,
+    "resetTokenExpiresAt": null
+  },
+  {
+    "id": "2cfad02136cde9dc",
+    "username": "selima",
+    "email": "salima.grissa@medtech.tn",
+    "passwordHash": "$2a$10$hR4bk3dXntmIf8Lmv2.OM.APzXVQt7qhvLF/09QuXdcSXlkPh.JXO",
+    "role": "user",
+    "createdAt": "2026-08-06T07:51:51.854Z",
+    "lastLoginAt": "2026-08-06T07:52:05.022Z",
+    "resetToken": null,
+    "resetTokenExpiresAt": null
+  }
+]

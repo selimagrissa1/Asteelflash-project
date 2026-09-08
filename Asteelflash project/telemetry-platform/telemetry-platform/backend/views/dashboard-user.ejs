@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<%- include('partials/head') %>
+</head>
+<body>
+<div class="app">
+  <%- include('partials/navbar') %>
+  <%- include('partials/flash') %>
+
+  <main class="grid">
+    <%- include('partials/dashboard-body') %>
+
+    <section class="card card--chart">
+      <h2 class="card__title">Évolution des mesures</h2>
+      <canvas id="tempChart"></canvas>
+      <p class="card__meta">Affiche les 50 dernières mesures reçues. Les seuils sont définis par un administrateur.</p>
+    </section>
+  </main>
+
+  <%- include('partials/footer') %>
+</div>
+
+<script>
+  window.__THRESHOLDS__ = <%- JSON.stringify(thresholds) %>;
+</script>
+<script src="/js/dashboard.js"></script>
+</body>
+</html>

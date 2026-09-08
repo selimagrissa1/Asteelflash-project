@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IAR Project Connection File -->
+
+<iarProjectConnection version="1.8" name="rfEasyLinkRx" oneShot="true"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema"
+  xsi:noNamespaceSchemaLocation="IarProjectConnection_1.8.xsd">
+
+  <device>
+    <name>CC1310F128</name>
+  </device>
+
+  <includePath>
+    <path>$PROJ_DIR$</path>
+    <path>$COM_TI_SIMPLELINK_CC13X0_SDK_INSTALL_DIR$/source</path>
+    <path>$COM_TI_SIMPLELINK_CC13X0_SDK_INSTALL_DIR$/source/ti/posix/iar</path>
+  </includePath>
+
+  <defines>
+    <define>DeviceFamily_CC13X0</define>
+    <define>CCFG_FORCE_VDDR_HH=0</define>
+    <define>SUPPORT_PHY_CUSTOM</define>
+    <define>SUPPORT_PHY_50KBPS2GFSK</define>
+    <define>SUPPORT_PHY_625BPSLRM</define>
+    <define>SUPPORT_PHY_5KBPSSLLR</define>
+  </defines>
+
+  <extraOptions>
+      <arg></arg>
+      <arg>-f$COM_TI_SIMPLELINK_CC13X0_SDK_INSTALL_DIR$/kernel/tirtos/builds/CC1310_LAUNCHXL/release/iar/compiler.opt.defs</arg>
+      <arg>--debug</arg>
+      <arg>--silent</arg>
+      <arg>-e</arg>
+      <arg>--aeabi</arg>
+      <arg>--thumb</arg>
+      <arg>--diag_suppress=Pa050</arg>
+  </extraOptions>
+
+  <asmIncludePath>
+    <path>$PROJ_DIR$</path>
+  </asmIncludePath>
+
+  <asmDefines>
+  </asmDefines>
+
+  <linkerFile>
+    <override>true</override>
+    <path>$COM_TI_SIMPLELINK_CC13X0_SDK_INSTALL_DIR$/examples/rtos/CC1310_LAUNCHXL/easylink/rfEasyLinkRx/tirtos/iar/CC1310_LAUNCHXL_TIRTOS.icf</path>
+  </linkerFile>
+
+  <linkerExtraOptions>
+    <args>
+      <arg>-f$COM_TI_SIMPLELINK_CC13X0_SDK_INSTALL_DIR$/kernel/tirtos/builds/CC1310_LAUNCHXL/release/iar/linker.cmd</arg>
+      <arg>$COM_TI_SIMPLELINK_CC13X0_SDK_INSTALL_DIR$/source/ti/display/lib/display.arm3</arg>
+      <arg>$COM_TI_SIMPLELINK_CC13X0_SDK_INSTALL_DIR$/source/ti/grlib/lib/iar/m3/grlib.a</arg>
+      <arg>$COM_TI_SIMPLELINK_CC13X0_SDK_INSTALL_DIR$/source/third_party/spiffs/lib/iar/m3/spiffs_cc26xx.a</arg>
+      <arg>$COM_TI_SIMPLELINK_CC13X0_SDK_INSTALL_DIR$/source/ti/drivers/rf/lib/rf_multiMode_cc13x0.arm3</arg>
+      <arg>$COM_TI_SIMPLELINK_CC13X0_SDK_INSTALL_DIR$/source/ti/drivers/lib/drivers_cc13x0.arm3</arg>
+      <arg>$COM_TI_SIMPLELINK_CC13X0_SDK_INSTALL_DIR$/kernel/tirtos/packages/ti/dpl/lib/dpl_cc13x0.arm3</arg>
+      <arg>$COM_TI_SIMPLELINK_CC13X0_SDK_INSTALL_DIR$/source/ti/devices/cc13x0/driverlib/bin/iar/driverlib.lib</arg>
+      <arg>--silent</arg>
+      <arg>--cpu=Cortex-M3</arg>
+    </args>
+  </linkerExtraOptions>
+
+  <customBuildTools>
+  </customBuildTools>
+
+  <heaps>
+    <heap> <!-- If omitted, id="0" -->
+      <size>0</size>
+    </heap>
+    <heap id="1">
+      <size>0</size>
+    </heap>
+  </heaps>
+  <stacks>
+    <stack> <!-- If omitted, id="0" -->
+      <size>512</size>
+    </stack>
+  </stacks>
+
+  <preBuild>
+    <command>iarbuild.exe $COM_TI_SIMPLELINK_CC13X0_SDK_INSTALL_DIR$/kernel/tirtos/builds/CC1310_LAUNCHXL/release/iar/tirtos_builds_CC1310_LAUNCHXL_release.ewp Debug -log all</command>
+  </preBuild>
+
+  <files>
+    <group name="Source files">
+      <path copyTo="$PROJ_DIR$/easylink/easylink_config.c">$COM_TI_SIMPLELINK_CC13X0_SDK_INSTALL_DIR$/examples/rtos/CC1310_LAUNCHXL/easylink/rfEasyLinkRx/easylink/easylink_config.c</path>
+      <path copyTo="$PROJ_DIR$/easylink/EasyLink.c">$COM_TI_SIMPLELINK_CC13X0_SDK_INSTALL_DIR$/examples/rtos/CC1310_LAUNCHXL/easylink/rfEasyLinkRx/easylink/EasyLink.c</path>
+      <path copyTo="$PROJ_DIR$/smartrf_settings/smartrf_settings.c">$COM_TI_SIMPLELINK_CC13X0_SDK_INSTALL_DIR$/examples/rtos/CC1310_LAUNCHXL/easylink/rfEasyLinkRx/smartrf_settings/smartrf_settings.c</path>
+      <path copyTo="$PROJ_DIR$/smartrf_settings/smartrf_settings_predefined.c">$COM_TI_SIMPLELINK_CC13X0_SDK_INSTALL_DIR$/examples/rtos/CC1310_LAUNCHXL/easylink/rfEasyLinkRx/smartrf_settings/smartrf_settings_predefined.c</path>
+      <path copyTo="$PROJ_DIR$/rfEasyLinkRx.c">$COM_TI_SIMPLELINK_CC13X0_SDK_INSTALL_DIR$/examples/rtos/CC1310_LAUNCHXL/easylink/rfEasyLinkRx/rfEasyLinkRx.c</path>
+      <path copyTo="$PROJ_DIR$/CC1310_LAUNCHXL.c">$COM_TI_SIMPLELINK_CC13X0_SDK_INSTALL_DIR$/examples/rtos/CC1310_LAUNCHXL/easylink/rfEasyLinkRx/CC1310_LAUNCHXL.c</path>
+      <path copyTo="$PROJ_DIR$/CC1310_LAUNCHXL_fxns.c">$COM_TI_SIMPLELINK_CC13X0_SDK_INSTALL_DIR$/examples/rtos/CC1310_LAUNCHXL/easylink/rfEasyLinkRx/CC1310_LAUNCHXL_fxns.c</path>
+      <path copyTo="$PROJ_DIR$/ccfg.c">$COM_TI_SIMPLELINK_CC13X0_SDK_INSTALL_DIR$/examples/rtos/CC1310_LAUNCHXL/easylink/rfEasyLinkRx/ccfg.c</path>
+      <path copyTo="$PROJ_DIR$/CC1310_LAUNCHXL_TIRTOS.icf">$COM_TI_SIMPLELINK_CC13X0_SDK_INSTALL_DIR$/examples/rtos/CC1310_LAUNCHXL/easylink/rfEasyLinkRx/tirtos/iar/CC1310_LAUNCHXL_TIRTOS.icf</path>
+    </group>
+
+    <group name="Header files">
+      <path copyTo="$PROJ_DIR$/easylink/EasyLink.h">$COM_TI_SIMPLELINK_CC13X0_SDK_INSTALL_DIR$/examples/rtos/CC1310_LAUNCHXL/easylink/rfEasyLinkRx/easylink/EasyLink.h</path>
+      <path copyTo="$PROJ_DIR$/easylink/easylink_config.h">$COM_TI_SIMPLELINK_CC13X0_SDK_INSTALL_DIR$/examples/rtos/CC1310_LAUNCHXL/easylink/rfEasyLinkRx/easylink/easylink_config.h</path>
+      <path copyTo="$PROJ_DIR$/smartrf_settings/smartrf_settings.h">$COM_TI_SIMPLELINK_CC13X0_SDK_INSTALL_DIR$/examples/rtos/CC1310_LAUNCHXL/easylink/rfEasyLinkRx/smartrf_settings/smartrf_settings.h</path>
+      <path copyTo="$PROJ_DIR$/smartrf_settings/smartrf_settings_predefined.h">$COM_TI_SIMPLELINK_CC13X0_SDK_INSTALL_DIR$/examples/rtos/CC1310_LAUNCHXL/easylink/rfEasyLinkRx/smartrf_settings/smartrf_settings_predefined.h</path>
+      <path copyTo="$PROJ_DIR$/Board.h">$COM_TI_SIMPLELINK_CC13X0_SDK_INSTALL_DIR$/examples/rtos/CC1310_LAUNCHXL/easylink/rfEasyLinkRx/Board.h</path>
+      <path copyTo="$PROJ_DIR$/CC1310_LAUNCHXL.h">$COM_TI_SIMPLELINK_CC13X0_SDK_INSTALL_DIR$/examples/rtos/CC1310_LAUNCHXL/easylink/rfEasyLinkRx/CC1310_LAUNCHXL.h</path>
+    </group>
+
+    <group name="Documentation" build="false">
+      <path copyTo="$PROJ_DIR$/README.md">$COM_TI_SIMPLELINK_CC13X0_SDK_INSTALL_DIR$/examples/rtos/CC1310_LAUNCHXL/easylink/rfEasyLinkRx/README.md</path>
+      <path reference="$PROJ_DIR$/Board.html">$COM_TI_SIMPLELINK_CC13X0_SDK_INSTALL_DIR$/source/ti/boards/CC1310_LAUNCHXL/Board.html</path>
+    </group>
+  </files>
+</iarProjectConnection>

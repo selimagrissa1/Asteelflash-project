@@ -1,0 +1,67 @@
+<section class="card card--temp">
+  <h2 class="card__title">Température <small>(Local)</small></h2>
+  <div class="temp-display">
+    <span id="currentTemp" class="temp-display__value">--</span>
+    <span class="temp-display__unit">°C</span>
+  </div>
+  <div class="gauge" role="img" aria-label="Jauge de température (local)">
+    <div id="tempGaugeFill" class="gauge__fill"></div>
+  </div>
+</section>
+
+<section class="card card--hum">
+  <h2 class="card__title">Humidité <small>(Local)</small></h2>
+  <div class="temp-display">
+    <span id="currentHum" class="temp-display__value">--</span>
+    <span class="temp-display__unit">%</span>
+  </div>
+  <div class="gauge" role="img" aria-label="Jauge d'humidité (local)">
+    <div id="humGaugeFill" class="gauge__fill gauge__fill--hum"></div>
+  </div>
+</section>
+
+<section class="card card--temp">
+  <h2 class="card__title">Température <small>(Distant, RF)</small></h2>
+  <div class="temp-display">
+    <span id="currentTempRemote" class="temp-display__value">--</span>
+    <span class="temp-display__unit">°C</span>
+  </div>
+  <div class="gauge" role="img" aria-label="Jauge de température (distant)">
+    <div id="tempGaugeFillRemote" class="gauge__fill"></div>
+  </div>
+</section>
+
+<section class="card card--hum">
+  <h2 class="card__title">Humidité <small>(Distant, RF)</small></h2>
+  <div class="temp-display">
+    <span id="currentHumRemote" class="temp-display__value">--</span>
+    <span class="temp-display__unit">%</span>
+  </div>
+  <div class="gauge" role="img" aria-label="Jauge d'humidité (distant)">
+    <div id="humGaugeFillRemote" class="gauge__fill gauge__fill--hum"></div>
+  </div>
+</section>
+
+<section class="card card--status">
+  <h2 class="card__title">Écart (Local − Distant)</h2>
+  <p class="card__meta">Température : <strong id="deltaTemp">--</strong></p>
+  <p class="card__meta">Humidité : <strong id="deltaHum">--</strong></p>
+</section>
+
+<section class="card card--status">
+  <h2 class="card__title">État du système <small>(Local)</small></h2>
+  <div id="statusBannerLocal" class="status-banner status-banner--normal">
+    <span id="statusIconLocal" class="status-banner__icon">✅</span>
+    <span id="statusTextLocal" class="status-banner__text">En attente de données…</span>
+  </div>
+  <p id="lastUpdateLocal" class="card__meta">Dernière mise à jour : —</p>
+</section>
+
+<section class="card card--status">
+  <h2 class="card__title">État du système <small>(Distant, RF)</small></h2>
+  <div id="statusBannerRemote" class="status-banner status-banner--normal">
+    <span id="statusIconRemote" class="status-banner__icon">✅</span>
+    <span id="statusTextRemote" class="status-banner__text">En attente de données…</span>
+  </div>
+  <p id="lastUpdateRemote" class="card__meta">Dernière mise à jour : —</p>
+</section>

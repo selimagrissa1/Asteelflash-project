@@ -1,0 +1,39 @@
+<header class="topbar">
+  <div class="topbar__brand">
+    <span class="topbar__icon">🌡️</span>
+    <div>
+      <h1>Télémétrie CC1310</h1>
+      <p class="topbar__subtitle">DHT11 — Température &amp; Humidité</p>
+    </div>
+  </div>
+
+  <% if (currentUser) { %>
+    <nav class="navbar">
+      <a href="/dashboard" class="navbar__link">Tableau de bord</a>
+      <a href="/alerts" class="navbar__link">
+      Historique d'alertes
+      <% if (alertCount > 0) { %>
+      <span style="background:#dc2626; color:#fff; border-radius:999px; padding:1px 7px; font-size:11px; margin-left:4px;"><%= alertCount %></span>
+      <% } %>
+      </a>
+      <% if (currentUser.role === 'admin') { %>
+        <a href="/admin/users" class="navbar__link">Gestion des utilisateurs</a>
+      <% } %>
+      <a href="/profile" class="navbar__link">Profil</a>
+      <form action="/logout" method="POST" class="navbar__logout-form">
+        <button type="submit" class="navbar__link navbar__link--button">Déconnexion</button>
+      </form>
+
+      <div class="navbar__user">
+        <span
+          class="avatar"
+          style="background: <%= getAvatarColor(currentUser.username) %>"
+        ><%= getInitials(currentUser.username) %></span>
+        <div class="navbar__user-info">
+          <span class="navbar__username"><%= currentUser.username %></span>
+          <span class="navbar__role badge badge--<%= currentUser.role %>"><%= currentUser.role === 'admin' ? 'Administrateur' : 'Utilisateur' %></span>
+        </div>
+      </div>
+    </nav>
+  <% } %>
+</header>

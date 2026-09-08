@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<%- include('partials/head') %>
+</head>
+<body class="auth-body">
+
+<div class="auth-card">
+  <div class="auth-card__brand">
+    <span class="topbar__icon">🌡️</span>
+    <h1>Télémétrie CC1310</h1>
+  </div>
+
+  <h2 class="auth-card__title">Connexion</h2>
+
+  <%- include('partials/flash') %>
+
+  <% if (errors && errors.length > 0) { %>
+    <div class="form-errors">
+      <% errors.forEach(function(err) { %><p><%= err %></p><% }); %>
+    </div>
+  <% } %>
+
+  <form action="/login" method="POST" class="auth-form">
+    <div class="form-field">
+      <label for="identifier">Nom d'utilisateur ou e-mail</label>
+      <input type="text" id="identifier" name="identifier" value="<%= formData.identifier || '' %>" required autofocus />
+    </div>
+    <div class="form-field">
+      <label for="password">Mot de passe</label>
+      <input type="password" id="password" name="password" required />
+    </div>
+
+    <div class="form-field form-field--inline">
+      <label class="checkbox-label">
+        <input type="checkbox" name="rememberMe" value="1" />
+        Se souvenir de moi
+      </label>
+      <a href="/forgot-password" class="auth-link">Mot de passe oublié ?</a>
+    </div>
+
+    <button type="submit" class="btn">Se connecter</button>
+  </form>
+
+  <p class="auth-switch">Pas encore de compte ? <a href="/register">Créer un compte</a></p>
+</div>
+
+</body>
+</html>

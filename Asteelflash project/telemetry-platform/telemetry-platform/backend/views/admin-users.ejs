@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<%- include('partials/head') %>
+</head>
+<body>
+<div class="app">
+  <%- include('partials/navbar') %>
+  <%- include('partials/flash') %>
+
+  <main class="single-column">
+    <section class="card">
+      <div class="card__header-row">
+        <h2 class="card__title">Gestion des utilisateurs</h2>
+        <span class="badge badge--count"><%= totalUsers %> utilisateur<%= totalUsers > 1 ? 's' : '' %></span>
+      </div>
+
+      <form action="/admin/users" method="GET" class="users-toolbar">
+        <input
+          type="text"
+          name="search"
+          value="<%= search %>"
+          placeholder="Rechercher par nom ou e-mail…"
+          class="users-toolbar__search"
+        />
+        <select name="role" class="users-toolbar__select">
+          <option value="" <%= roleFilter === '' ? 'selected' : '' %>>Tous les rôles</option>
+          <option value="admin" <%= roleFilter === 'admin' ? 'selected' : '' %>>Administrateur</option>
+          <option value="user" <%= roleFilter === 'user' ? 'selected' : '' %>>Utilisateur</option>
+        </select>
+        <button type="submit" class="btn btn--secondary">Filtrer</button>
+      </form>
+
+      <div class="table-wrapper">
+        <table class="users-table">
+          <thead>
+            <tr>
+              <th>Identifiant</th>
+              <th>Nom d'utilisateur</th>
+              <th>E-mail</th>
+              <th>Rôle</th>
+              <th>Créé le</th>
+              <th>Actions</th>
+            </tr>
+          </thead>
+          <tbody>
+            <% if (users.length === 0) { %>
+              <tr><td colspan="6" class="users-table__empty">Aucun utilisateur ne correspond à cette recherche.</td></tr>
+            <% } %>
+            <% users.forEach(function(u) { %>
+              <tr>
+                <td class="users-table__id"><%= u.id %></td>
+                <td><%= u.username %></td>
+                <td><%= u.email %></td>
+                <td><span class="badge badge--<%= u.role %>"><%= u.role === 'admin' ? 'Administrateur' : 'Utilisateur' %></span></td>
+                <td><%= new Date(u.createdAt).toLocaleDateString('fr-FR') %></td>
+                <td class="users-table__actions">
+                  <form action="/admin/users/<%= u.id %>/role" method="POST" class="inline-form">
+                    <select name="role" onchange="this.form.submit()">
+                      <option value="user" <%= u.role === 'user' ? 'selected' : '' %>>Utilisateur</option>
+                      <option value="admin" <%= u.role === 'admin' ? 'selected' : '' %>>Administrateur</option>
+                    </select>
+                  </form>
+
+                  <% if (u.id !== currentUser.id) { %>
+                    <form
+                      action="/admin/users/<%= u.id %>/delete"
+                      method="POST"
+                      class="inline-form"
+                      onsubmit="return confirm('Supprimer définitivement ce compte ?');"
+                    >
+                      <button type="submit" class="btn btn--danger btn--small">Supprimer</button>
+                    </form>
+                  <% } else { %>
+                    <span class="users-table__self">Votre compte</span>
+                  <% } %>
+                </td>
+              </tr>
+            <% }); %>
+          </tbody>
+        </table>
+      </div>
+
+      <% if (totalPages > 1) { %>
+        <div class="pagination">
+          <% for (let p = 1; p <= totalPages; p++) { %>
+            <a
+              class="pagination__link <%= p === currentPage ? 'pagination__link--active' : '' %>"
+              href="/admin/users?page=<%= p %>&search=<%= encodeURIComponent(search) %>&role=<%= roleFilter %>"
+            ><%= p %></a>
+          <% } %>
+        </div>
+      <% } %>
+    </section>
+  </main>
+
+  <%- include('partials/footer') %>
+</div>
+</body>
+</html>

@@ -1,0 +1,3002 @@
+[
+  {
+    "timestamp": "2026-08-09T16:27:44.689Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:42.758Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=65%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:42.668Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:40.729Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=65%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:40.646Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:38.698Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=65%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:38.620Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:36.666Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=65%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:36.623Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:34.636Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=65%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:34.577Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:32.605Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=65%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:32.550Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:30.575Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=65%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:30.529Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:28.544Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=65%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:28.518Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:26.516Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=65%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:26.479Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:24.485Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=65%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:24.461Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:22.455Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=65%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:22.436Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:20.446Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=65%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:20.414Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:18.399Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=65%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:18.386Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:16.375Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:16.361Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:14.356Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=65%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:12.331Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:12.318Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:10.305Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=65%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:10.293Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:08.284Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=65%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:08.271Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:06.258Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:06.218Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:04.219Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:04.189Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=65%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:02.195Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:02.158Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:00.171Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:27:00.128Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=65%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:58.150Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:58.097Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:56.132Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:56.068Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:54.103Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:54.038Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:52.081Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:52.008Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:50.059Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:49.978Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:48.035Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:47.946Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:46.012Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:45.912Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:43.987Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:43.886Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:41.962Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:41.852Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:39.955Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:39.826Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:37.938Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:37.792Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:35.894Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:35.766Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:33.892Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:33.733Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:31.848Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:31.726Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:29.825Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:29.673Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:27.802Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:27.644Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:25.776Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:25.611Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:23.755Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:23.585Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:21.750Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:21.563Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:19.709Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:19.526Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:17.684Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:17.513Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:15.662Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:15.466Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:13.650Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:13.448Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:11.617Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:11.398Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:09.593Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:09.375Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:07.571Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:07.345Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:05.549Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:05.311Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:03.526Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:03.281Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:01.499Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:26:01.251Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:59.478Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:59.223Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:57.451Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:57.194Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:55.432Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:55.163Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:53.405Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:53.133Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:51.382Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:51.099Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:49.363Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:49.073Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:47.335Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:47.042Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:45.317Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:45.012Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:43.287Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:42.982Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:41.270Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:40.956Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:39.244Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:38.922Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:37.223Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:36.892Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:35.197Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:34.861Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:33.177Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:32.830Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:31.154Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:30.800Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:29.125Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:28.768Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:27.106Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:26.753Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:25.092Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:24.710Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:23.056Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:22.703Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:21.034Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:20.648Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:19.014Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:18.617Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:17.016Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:16.610Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:14.968Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:14.572Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:12.944Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:12.546Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:10.916Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:10.510Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:08.914Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:08.467Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:06.875Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:06.432Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:04.850Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:04.407Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:02.826Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:02.375Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:00.804Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:25:00.345Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:58.781Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:58.313Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:56.757Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:56.285Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:54.748Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:54.253Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:52.710Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:52.225Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:50.687Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:50.191Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:48.665Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:48.166Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:46.641Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:46.131Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:44.612Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:44.099Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:42.594Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:42.074Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:40.566Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:40.044Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:38.547Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:38.014Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:36.519Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:35.981Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:34.500Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:33.954Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:32.473Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:31.942Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:30.450Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:29.893Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:28.426Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:27.863Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:26.407Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:25.827Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:24.383Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:23.804Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:22.375Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:21.806Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:20.336Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:19.742Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:18.314Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:17.712Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:16.301Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:15.682Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:14.267Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:13.653Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:12.242Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:11.623Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:10.215Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:09.590Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:08.229Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:07.578Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:06.174Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:05.543Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:04.150Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:03.499Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:02.150Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:01.490Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:24:00.122Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:59.441Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:58.102Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:57.428Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:56.058Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:55.380Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:54.057Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:53.350Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:52.012Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:51.320Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:49.991Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:49.289Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:47.985Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:47.278Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:45.959Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:45.243Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:43.920Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:43.198Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:41.891Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:41.170Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:39.873Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:39.138Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:37.866Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:37.132Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:35.823Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:35.074Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:33.808Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:33.050Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:31.780Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:31.014Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:29.753Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:29.014Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:27.733Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:26.984Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:25.706Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:24.926Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:23.688Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:22.918Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:21.662Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:20.889Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:19.639Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:18.836Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:17.616Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:16.809Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:15.593Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:14.789Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:13.589Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:12.749Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:11.541Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:10.715Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:09.518Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:08.699Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:07.498Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:06.658Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:05.473Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:04.629Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:03.450Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:02.622Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:01.426Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:23:00.565Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:59.413Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:58.538Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:57.379Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:56.529Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:55.356Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:54.478Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:53.331Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:52.448Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:51.310Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:50.419Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:49.285Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:48.389Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:47.275Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:46.352Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:45.248Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:44.334Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=64%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:43.240Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:42.303Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:41.199Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:40.271Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:39.167Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:38.256Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:37.148Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:36.212Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:35.115Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:34.196Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:33.104Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:32.155Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:31.074Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:30.124Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:29.056Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:28.118Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:27.042Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:26.114Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:25.064Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:24.042Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:23.042Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:22.093Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:20.979Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:20.030Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:18.978Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:18.281Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:17.135Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:16.478Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:15.026Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:14.107Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:12.871Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:11.896Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:10.927Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:09.886Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:09.181Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:07.790Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:06.809Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:05.773Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:04.796Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:03.738Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:02.898Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:01.693Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:22:00.745Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:59.688Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:58.713Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:57.638Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:56.685Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:55.602Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:54.657Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:53.569Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:52.647Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:51.686Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:50.638Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:49.522Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:48.588Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:47.499Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:46.555Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:45.472Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:44.536Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:43.413Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:42.508Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:41.383Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:40.486Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:39.352Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:38.455Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:37.347Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:36.446Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:35.298Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:34.418Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:33.273Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:32.401Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:31.252Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:30.374Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:29.235Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:28.361Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:27.203Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=63%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:26.335Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:25.142Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:24.356Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:23.123Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:22.290Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:21.092Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:20.271Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:19.051Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:18.238Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:17.018Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:16.217Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:15.022Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:14.185Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:12.971Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:12.157Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:10.945Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:10.132Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:08.921Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:08.106Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:06.895Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:06.096Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:04.847Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:04.068Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:02.835Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:02.043Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:00.775Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:21:00.045Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:58.756Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:58.000Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:56.739Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:55.966Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:54.697Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:53.945Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:52.671Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:51.930Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:50.650Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:49.896Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:48.612Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:47.881Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:46.564Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:45.848Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:44.533Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:43.829Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:42.522Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:41.817Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:40.482Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:39.785Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:38.451Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:37.751Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:36.433Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:35.750Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:34.404Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:33.709Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:32.366Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:31.684Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:30.341Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:29.663Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:28.289Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:27.648Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:26.274Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:25.627Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:24.239Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:23.614Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:22.198Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:21.567Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:20.166Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:19.543Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:18.158Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=62%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:17.543Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=26°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:16.123Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:15.499Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:14.078Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:13.471Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:12.045Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:11.455Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:10.032Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:09.448Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:07.995Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:07.424Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:05.958Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:05.382Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:03.941Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:03.354Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:01.904Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:20:01.355Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:59.882Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:59.331Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:57.853Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:57.286Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:55.802Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:55.261Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:53.771Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:53.259Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:51.762Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:51.216Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:49.711Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:49.205Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:47.685Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:47.193Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:45.692Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:45.144Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:43.637Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:43.132Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:41.600Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:41.112Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:39.579Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:39.072Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=27°C H=60%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:37.546Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:37.053Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=27°C H=60%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:35.501Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:35.031Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=27°C H=60%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:33.471Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:33.000Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=27°C H=60%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:31.451Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:30.983Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=27°C H=60%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:29.437Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:28.976Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=27°C H=60%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:27.382Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:26.950Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=27°C H=60%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:25.347Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=61%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:24.920Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=27°C H=60%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:23.333Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=60%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:22.896Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=27°C H=60%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:21.304Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=60%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:20.864Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=27°C H=60%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:19.263Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=60%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:18.856Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[local] T=27°C H=60%"
+  },
+  {
+    "timestamp": "2026-08-09T16:19:17.246Z",
+    "actor": "CC1310 (capteur)",
+    "action": "sensor_reading_ingested",
+    "details": "[remote] T=27°C H=60%"
+  }
+]

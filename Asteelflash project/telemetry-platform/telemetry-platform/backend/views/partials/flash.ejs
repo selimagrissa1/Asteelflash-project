@@ -1,0 +1,10 @@
+<% if (typeof flashMessages !== 'undefined' && flashMessages.length > 0) { %>
+  <div class="flash-stack">
+    <% flashMessages.forEach(function(msg) { %>
+      <div class="flash flash--<%= msg.type %>">
+        <span><%= msg.type === 'success' ? '✅' : '⚠️' %></span>
+        <span><%= msg.message %></span>
+      </div>
+    <% }); %>
+  </div>
+<% } %>

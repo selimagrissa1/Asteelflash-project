@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<%- include('partials/head') %>
+</head>
+<body>
+<div class="app">
+  <%- include('partials/navbar') %>
+  <%- include('partials/flash') %>
+
+  <main class="single-column">
+
+    <section class="card">
+      <h2 class="card__title">Historique d'alertes</h2>
+
+      <form method="GET" action="/alerts" class="auth-form" style="display:flex; gap:12px; flex-wrap:wrap; margin-bottom:16px;">
+        <div class="form-field">
+          <label for="type">Type</label>
+          <select id="type" name="type" onchange="this.form.submit()">
+            <option value="">Tous les types</option>
+            <option value="temperature" <%= typeFilter === 'temperature' ? 'selected' : '' %>>Température</option>
+            <option value="humidity" <%= typeFilter === 'humidity' ? 'selected' : '' %>>Humidité</option>
+          </select>
+        </div>
+        <div class="form-field">
+          <label for="source">Capteur</label>
+          <select id="source" name="source" onchange="this.form.submit()">
+            <option value="">Tous les capteurs</option>
+            <option value="local" <%= sourceFilter === 'local' ? 'selected' : '' %>>Local</option>
+            <option value="remote" <%= sourceFilter === 'remote' ? 'selected' : '' %>>Distant (RF)</option>
+          </select>
+        </div>
+      </form>
+
+      <% if (alerts.length === 0) { %>
+        <p class="card__meta">Aucune alerte enregistrée pour ce filtre.</p>
+      <% } else { %>
+        <ul class="login-history">
+          <% alerts.forEach(function(alert) { %>
+            <% const isHigh = alert.level === 'high'; %>
+            <li>
+              <span
+                class="badge"
+                style="background: <%= isHigh ? '#fee2e2' : '#fef3c7' %>; color: <%= isHigh ? '#b91c1c' : '#92400e' %>;"
+              >
+                <%= alert.type === 'temperature' ? '🌡️' : '💧' %> <%= alert.name %>
+              </span>
+              <span class="card__meta">
+                <%= alert.value %><%= alert.type === 'temperature' ? '°C' : '%' %>
+                (seuil : <%= alert.threshold %><%= alert.type === 'temperature' ? '°C' : '%' %>)
+                — capteur <%= alert.source === 'remote' ? 'distant' : 'local' %>
+              </span>
+              <span class="card__meta"><%= new Date(alert.timestamp).toLocaleString('fr-FR') %></span>
+            </li>
+          <% }); %>
+        </ul>
+      <% } %>
+    </section>
+
+  </main>
+
+  <%- include('partials/footer') %>
+</div>
+</body>
+</html>

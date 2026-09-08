@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<%- include('partials/head') %>
+</head>
+<body>
+<div class="app">
+  <%- include('partials/navbar') %>
+  <%- include('partials/flash') %>
+
+  <main class="single-column">
+
+    <section class="card profile-header">
+      <span class="avatar avatar--large" style="background: <%= getAvatarColor(currentUser.username) %>">
+        <%= getInitials(currentUser.username) %>
+      </span>
+      <div>
+        <h2 class="card__title" style="margin-bottom:4px;"><%= currentUser.username %></h2>
+        <span class="badge badge--<%= currentUser.role %>"><%= currentUser.role === 'admin' ? 'Administrateur' : 'Utilisateur' %></span>
+        <p class="card__meta">
+          Compte créé le <%= new Date(currentUser.createdAt).toLocaleDateString('fr-FR') %>
+          <% if (currentUser.lastLoginAt) { %>
+            · Dernière connexion : <%= new Date(currentUser.lastLoginAt).toLocaleString('fr-FR') %>
+          <% } %>
+        </p>
+      </div>
+    </section>
+
+    <% if (errors && errors.length > 0) { %>
+      <div class="form-errors">
+        <% errors.forEach(function(err) { %><p><%= err %></p><% }); %>
+      </div>
+    <% } %>
+
+    <div class="profile-grid">
+      <section class="card">
+        <h2 class="card__title">Informations du compte</h2>
+        <form action="/profile/update" method="POST" class="auth-form">
+          <div class="form-field">
+            <label for="username">Nom d'utilisateur</label>
+            <input type="text" id="username" name="username" value="<%= currentUser.username %>" required />
+          </div>
+          <div class="form-field">
+            <label for="email">Adresse e-mail</label>
+            <input type="email" id="email" name="email" value="<%= currentUser.email %>" required />
+          </div>
+          <div class="form-field">
+            <label>Rôle</label>
+            <input type="text" value="<%= currentUser.role === 'admin' ? 'Administrateur' : 'Utilisateur' %>" disabled />
+            <span class="form-hint">Le rôle ne peut être modifié que par un administrateur.</span>
+          </div>
+          <button type="submit" class="btn">Enregistrer les modifications</button>
+        </form>
+      </section>
+
+      <section class="card">
+        <h2 class="card__title">Changer le mot de passe</h2>
+        <form action="/profile/password" method="POST" class="auth-form">
+          <div class="form-field">
+            <label for="currentPassword">Mot de passe actuel</label>
+            <input type="password" id="currentPassword" name="currentPassword" required />
+          </div>
+          <div class="form-field">
+            <label for="newPassword">Nouveau mot de passe</label>
+            <input type="password" id="newPassword" name="newPassword" required />
+          </div>
+          <div class="form-field">
+            <label for="confirmPassword">Confirmer le nouveau mot de passe</label>
+            <input type="password" id="confirmPassword" name="confirmPassword" required />
+          </div>
+          <button type="submit" class="btn">Changer le mot de passe</button>
+        </form>
+      </section>
+
+      <section class="card">
+        <h2 class="card__title">Historique des connexions récentes</h2>
+        <% if (loginHistory.length === 0) { %>
+          <p class="card__meta">Aucun historique disponible.</p>
+        <% } else { %>
+          <ul class="login-history">
+            <% loginHistory.forEach(function(entry) { %>
+              <li>
+                <span><%= new Date(entry.timestamp).toLocaleString('fr-FR') %></span>
+                <span class="card__meta"><%= entry.ip %></span>
+              </li>
+            <% }); %>
+          </ul>
+        <% } %>
+      </section>
+    </div>
+  </main>
+
+  <%- include('partials/footer') %>
+</div>
+</body>
+</html>

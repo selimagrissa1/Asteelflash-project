@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<%- include('partials/head') %>
+</head>
+<body>
+<div class="app">
+  <%- include('partials/navbar') %>
+  <%- include('partials/flash') %>
+
+  <main class="grid">
+    <%- include('partials/dashboard-body') %>
+
+    <section class="card card--thresholds">
+      <h2 class="card__title">Configuration des seuils</h2>
+      <form action="/dashboard/thresholds" method="POST" class="threshold-form">
+        <div class="threshold-form__row">
+          <div class="threshold-form__field">
+            <label for="tempMin">T° min (°C)</label>
+            <input type="number" id="tempMin" name="tempMin" step="0.1" value="<%= thresholds.tempMin %>" required />
+          </div>
+          <div class="threshold-form__field">
+            <label for="tempMax">T° max (°C)</label>
+            <input type="number" id="tempMax" name="tempMax" step="0.1" value="<%= thresholds.tempMax %>" required />
+          </div>
+        </div>
+        <div class="threshold-form__row">
+          <div class="threshold-form__field">
+            <label for="humMin">Humidité min (%)</label>
+            <input type="number" id="humMin" name="humMin" step="0.1" value="<%= thresholds.humMin %>" required />
+          </div>
+          <div class="threshold-form__field">
+            <label for="humMax">Humidité max (%)</label>
+            <input type="number" id="humMax" name="humMax" step="0.1" value="<%= thresholds.humMax %>" required />
+          </div>
+        </div>
+        <button type="submit" class="btn">Enregistrer les seuils</button>
+        <% if (thresholds.updatedAt) { %>
+          <p class="card__meta">Dernière modification : <%= new Date(thresholds.updatedAt).toLocaleString('fr-FR') %> par <%= thresholds.updatedBy %></p>
+        <% } %>
+      </form>
+    </section>
+
+    <section class="card card--chart">
+      <h2 class="card__title">Évolution des mesures</h2>
+      <canvas id="tempChart"></canvas>
+      <p class="card__meta">Affiche les 50 dernières mesures reçues.</p>
+    </section>
+  </main>
+
+  <%- include('partials/footer') %>
+</div>
+
+<script>
+  window.__THRESHOLDS__ = <%- JSON.stringify(thresholds) %>;
+</script>
+<script src="/js/dashboard.js"></script>
+</body>
+</html>
